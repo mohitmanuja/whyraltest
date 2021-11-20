@@ -19,3 +19,4 @@ dependencyResolutionManagement {
 }
 rootProject.name = "Sample Whyral"
 include ':app'
+include ':whyral'
